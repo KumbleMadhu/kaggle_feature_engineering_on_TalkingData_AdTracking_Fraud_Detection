@@ -1,0 +1,2 @@
+# kaggle_feature_engineering_on_TalkingData_AdTracking_Fraud_Detection
+Feature engineering on TalkingData AdTracking Fraud Detection.
